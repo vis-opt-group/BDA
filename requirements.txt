@@ -1,0 +1,8 @@
+imageio
+h5py
+numpy
+scipy
+matplotlib
+Pillow
+scikit_learn
+tensorflow >=1.13.*, <=1.15.*

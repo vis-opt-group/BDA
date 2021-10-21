@@ -21,6 +21,7 @@ You can download the [omniglot](https://github.com/brendenlake/omniglot),
 You can run the python file for different applications following the script below:
 
 ```
+cd test_script
 Python Few_shot.py --classes=5 --examples_train=1 --examples_test=1 --meta_batch_size=1 --alpha=0.4 # For few shot classification tasks.
 Python  Data_hyper_cleaning.py # For data hyper-cleaning tasks.
 ```
