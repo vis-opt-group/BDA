@@ -31,7 +31,7 @@ As for the few shot classification tasks, the default parameters are for 5 way 1
 
 If you use BDA for academic research, you are highly encouraged to cite the following paper:
 - Risheng Liu, Pan Mu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. ["A Generic First-Order Algorithmic Framework for Bi-Level Programming Beyond Lower-Level Singleton"](https://arxiv.org/abs/2006.04045). ICML, 2020.
-- Yaohua Liu, Riseng Liu. ["Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond"](https://arxiv.org/abs/2110.00455). ICMEW, 2021.
+- Yaohua Liu, Riseng Liu. ["BOML - A Bilevel Optimization Library in Python for Meta Learning"](https://arxiv.org/abs/2009.13357). ICMEW, 2021.
 
 ### License 
 
